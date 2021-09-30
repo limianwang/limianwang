@@ -20,7 +20,7 @@
 ![](https://img.shields.io/badge/-MongoDB-black?logo=mongodb&logoColor=white)
 
 ## Github Stats
-![Limian's GitHub stats](https://github-readme-stats.vercel.app/api?username=limianwang&count_private=&include_all_commits=true)
+![Limian's GitHub stats](https://github-readme-stats.vercel.app/api?username=limianwang&count_private=true&include_all_commits=true)
 
 ![Limian's Top Lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=limianwang)
 
