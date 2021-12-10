@@ -23,8 +23,9 @@ I am super passionate on infrastructure and developer productivity. I love learn
 ![](https://img.shields.io/badge/-MongoDB-black?logo=mongodb&logoColor=white)
 
 ## Github Stats
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=limianwang&count_private=true&include_all_commits=true" alt="limianwang" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limianwang" alt="limianwang" />
+![Limian's GitHub stats](https://github-readme-stats.vercel.app/api?username=limianwang&count_private=&include_all_commits=true)
+
+![Limian's Top Lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=limianwang)
 
 <!--
 **limianwang/limianwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
