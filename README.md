@@ -1,13 +1,16 @@
 # Hello, I am Limian 👋
 
- Currently, my current focus is on Tech Infrastructure and developer productivity. I love learning and sharing knowledge. So don't hesistate to reach out!
+I am super passionate on infrastructure and developer productivity. I love learning and sharing knowledge, so don't hesistate to reach out!
+
+* ✍️ Read my [blog](https://limianwang.medium.com)
 
 ## 🌱 I am interested in:
-* Infrastruture (Kubernetes & Docker)
-* GitOps
-* Startup Ideas
+* 💼 Infrastruture (Kubernetes & Docker)
+* 🧰 GitOps
+* 🤔 Startup Ideas
 
-## 💻 Technologies
+
+## 💻 Technologies & Tools
 
 ![](https://img.shields.io/badge/-Go-black?logo=go&logoColor=white)
 ![](https://img.shields.io/badge/-Javascript-black?logo=javascript&logoColor=white)
@@ -20,9 +23,8 @@
 ![](https://img.shields.io/badge/-MongoDB-black?logo=mongodb&logoColor=white)
 
 ## Github Stats
-![Limian's GitHub stats](https://github-readme-stats.vercel.app/api?username=limianwang&count_private=true&include_all_commits=true)
-
-![Limian's Top Lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=limianwang)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=limianwang&count_private=true&include_all_commits=true" alt="limianwang" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limianwang" alt="limianwang" />
 
 <!--
 **limianwang/limianwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
