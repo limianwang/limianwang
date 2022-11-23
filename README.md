@@ -1,14 +1,18 @@
 # Hello, I am Limian 👋
 
-I am super passionate on infrastructure and developer productivity. I love learning and sharing knowledge, so don't hesistate to reach out!
+I have worked at late stage startups and helped build teams. I am super passionate on infrastructure and developer productivity. I love learning and sharing knowledge, so don't hesistate to reach out!
 
-* ✍️ Read my [blog](https://limianwang.medium.com)
+- ✍️ Read my [blog](https://limianwang.medium.com)
 
 ## 🌱 I am interested in:
-* 💼 Infrastruture (Kubernetes & Docker)
-* 🧰 GitOps
-* 🤔 Startup Ideas
 
+- 💼 Infrastruture (Kubernetes & Docker) + GitOps + MLOps
+- 🤔 Startup
+- 💹 Investing & Private Equity (Venture Capital)
+
+## 💬 Ask me about:
+
+- Anything!
 
 ## 💻 Technologies & Tools
 
@@ -23,6 +27,7 @@ I am super passionate on infrastructure and developer productivity. I love learn
 ![](https://img.shields.io/badge/-MongoDB-black?logo=mongodb&logoColor=white)
 
 ## Github Stats
+
 ![Limian's GitHub stats](https://github-readme-stats.vercel.app/api?username=limianwang&count_private=true&include_all_commits=true)
 
 ![Limian's Top Lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=limianwang)
@@ -41,4 +46,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
