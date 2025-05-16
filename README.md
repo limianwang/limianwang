@@ -2,17 +2,26 @@
 
 I have worked at late stage startups and helped build teams. I am super passionate on infrastructure and developer productivity. I love learning and sharing knowledge, so don't hesistate to reach out!
 
-- ✍️ Read my [blog](https://limianwang.medium.com)
+## 💡 What I Do
+
+- 🧠 Lead high-performing engineering teams building scalable systems
+- 🛠️ Architect end-to-end platforms across backend, frontend & infra
+- 📈 Blend product intuition with data-driven decisions
+- 🌱 Explore entrepreneurial ideas, investing, and emerging tech
 
 ## 🌱 I am interested in:
 
+- 💹 Turning business ideas into products
 - 💼 Infrastruture (Kubernetes & Docker) + GitOps + MLOps
-- 🤔 Startup
-- 💹 Investing & Private Equity (Venture Capital)
 
 ## 💬 Ask me about:
 
 - Anything!
+
+## 🌐 Connect with Me
+
+- ✍️ Read my [blog](https://limianwang.medium.com)
+- [LinkedIn](https://linkedin.com/in/limianw)
 
 ## 💻 Technologies & Tools
 
@@ -25,12 +34,6 @@ I have worked at late stage startups and helped build teams. I am super passiona
 ![](https://img.shields.io/badge/-AWS-black?logo=amazon&logoColor=white)
 ![](https://img.shields.io/badge/-Github-black?logo=github&logoColor=white)
 ![](https://img.shields.io/badge/-MongoDB-black?logo=mongodb&logoColor=white)
-
-## Github Stats
-
-![Limian's GitHub stats](https://github-readme-stats.vercel.app/api?username=limianwang&count_private=true&include_all_commits=true)
-
-![Limian's Top Lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=limianwang)
 
 <!--
 **limianwang/limianwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
